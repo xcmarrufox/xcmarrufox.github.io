@@ -6,5 +6,13 @@ p {font-family: Georgia, 'Times New Roman', Times, serif;}
 p {margin-top: 20px;
 margin-bottom: 20px;
 margin-left: 20px;
-margin-right: 20px;}
-
+margin-right: 20px;
+}
+.box{
+    width: 300px;
+    height: 150px;
+    background-color: #72e18a;
+    padding: 20px;
+    border: 2px solid #000000;
+    margin: 10px;
+}
